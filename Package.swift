@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "SensorsAnalyticsSDK",
             url: "https://github.com/adimobile/sa-sdk-ios-spm/releases/download/4.4.1-wkwebview/SensorsAnalyticsSDK.zip",
-            checksum: "22ac5665c89edf4ad3663dea9bd72bcb65ed5495fb6f2223fa07d8cceeb2a75b"
+            checksum: "fe60c5ba3994e43a2411214cda60f3e4cfaae141ad24b59f24490060b48aa949"
         )
     ]
 )
